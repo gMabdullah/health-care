@@ -1,0 +1,127 @@
+.standard-page-navigation {
+	text-align: center;
+	font-weight: 400;
+	font-size: 20px;
+	color: #cacaca;
+	margin-bottom: 20px;
+}
+.standard-page-navigation li span {
+	margin-left: 5px;
+}
+.standard-page-navigation li:nth-child(1) {
+	color: #426cd5;
+}
+.standard-page-navigation li:nth-child(2) i {
+	color: #ffba03;
+}
+.standard-page-navigation li:nth-child(3) i {
+	color: #89af3a;
+}
+.standard-page-navigation li:nth-child(4) i {
+	color: #1fa5ab;
+}
+.standard-page-intro {
+	font-size: 35px;
+	font-weight: 800;
+	color: #ff2481;
+	text-align: center;
+	line-height: 40px;
+}
+.standard-page-desc {
+	font-size: 20px;
+	font-weight: 400;
+	color: #cacaca;
+	text-align: center;
+	margin-bottom: 20px;
+	line-height: 23px;
+}
+.standard-page-blog img {
+	margin: 0 auto;
+}
+.standard-page-blog blockquote {
+	border-left: 1px solid #365ebf;
+	line-height: 32px;
+}
+.standard-page-blog blockquote p {
+	font-weight: 300;
+	font-size: 30px;
+}
+.standard-page-blog p.standard-page-blog-para {
+	font-weight: 400;
+	font-size: 15px;
+}
+.first-standard, .second-standard, .third-standard, .fourth-standard {
+	overflow: hidden;
+}
+.first-standard img {
+	width: 210px;
+	height: 210px;
+	margin-top: 85px;
+}
+.first-standard p.standard-page-blog-para {
+	padding: 0 23px;
+	margin-top: -20px;
+}
+.second-standard img {
+	width: 175px;
+	height: 175px;
+	margin-top: 60px;
+}
+.second-standard p.standard-page-blog-para {
+	padding: 0 256px 0 23px;
+	margin-top: -13px;
+}
+.third-standard img {
+	width: 175px;
+	height: 175px;
+	/*margin-top: 30px;*/
+}
+.third-standard p.standard-page-blog-para {
+	padding: 0 141px 0 22px;
+	margin-top: -16px;
+}
+.fourth-standard img {
+	width: 225px;
+	/*margin-top: 50px;*/
+}
+.fourth-standard p.standard-page-blog-para {
+	padding: 0 156px 0 25px;
+}
+.fivth-standard {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.orange-box {
+    position: absolute;
+    top: 33px;
+    left: -60px;
+    width: 330px;
+    height: 120px;
+    background: -webkit-linear-gradient(left top, #feb329, #ff0006);
+    background: -o-linear-gradient(bottom right, #feb329, #ff0006);
+    background: -moz-linear-gradient(bottom right, #feb329, #ff0006);
+    background: linear-gradient(to bottom right, #feb329 , #ff0006);
+    color: #fff;
+    padding: 22px 10px 0 10px;
+    border-radius: 16px;
+}
+.orange-box h4 {
+    text-transform: uppercase;
+    display: inline;
+    margin-right: 30px;
+    color: #ffd461;
+    opacity: 0.7;
+}
+.orange-box i {
+    font-size: 20px;
+}
+.orange-box p {
+    font-size: 13px;
+    display: inline;
+}
+.orange-box a {
+    color: #ffd461;
+    text-decoration: none;
+    display: inline;
+}

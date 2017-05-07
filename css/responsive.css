@@ -1,0 +1,46 @@
+@media only screen and (min-width: 1024px) {
+    
+ul.nav.navbar-nav {
+    margin-left: 0px;
+}
+.nav-rght-btn {
+    right: 90px;
+}
+.wraper h3 {
+    font-size: 20px;
+}
+section .arrow-bg {
+    background-size: contain;
+}
+.wraper h5 {
+    font-size: 1.1em;
+}
+.wrapbox .one {
+    left: -17%;
+    font-size: 6em;
+}
+.wrapbox .two {
+    left: -20%;
+    font-size: 6em;
+}
+.wrapbox .three {
+    left: -20%;
+    font-size: 6em;
+}
+.wrapbox ul {
+    font-weight: 600;
+}
+.wrapbox ul li {
+    margin-bottom: 15px;
+}
+/*.bg-footer {
+    text-align: center;
+}*/
+.ftr-center-colmn {
+    margin-bottom: 25px;
+}
+/*.bg-footer {
+    text-align: center;
+}
+*/
+}
